@@ -1,0 +1,23 @@
+{
+  "generator-ecmascript-proposal": {
+    "promptValues": {
+      "hasChampion": true,
+      "championName": "Ron Buckton",
+      "championGithub": "rbuckton",
+      "spec": "https://rbuckton.github.io/proposal-struct",
+      "stage": "0",
+      "sections": [
+        "prior-art",
+        "syntax",
+        "semantics",
+        "examples",
+        "api",
+        "grammar",
+        "references",
+        "prior-discussion"
+      ],
+      "build": "gulp",
+      "vscode": true
+    }
+  }
+}
